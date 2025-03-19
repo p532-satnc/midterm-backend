@@ -1,0 +1,4 @@
+1;Which word matches the image?;bear, lion, elephant;elephant;images/duck1.jpeg
+2;Which word matches the image?;bear,tiger,leopard;leopard;images/duck2.jpeg
+3;Which word matches the image?;tiger,lion,leopard;lion;images/duck3.jpeg
+4;what is 2+2;5,4,6;4;images/q1.png
